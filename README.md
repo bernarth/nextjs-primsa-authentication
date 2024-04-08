@@ -44,3 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `npx prisma migrate dev --name init`
 
 `npm i react-hook-form`
+
+`npm i bcrypt`
